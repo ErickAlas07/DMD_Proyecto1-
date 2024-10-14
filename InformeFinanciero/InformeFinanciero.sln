@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "InformeFinanciero", "InformeFinanciero\InformeFinanciero.rptproj", "{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.Debug|Default.ActiveCfg = Debug
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.Debug|Default.Build.0 = Debug
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.Debug|Default.Deploy.0 = Debug
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.DebugLocal|Default.Build.0 = DebugLocal
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.Release|Default.ActiveCfg = Release
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.Release|Default.Build.0 = Release
+		{77441EB0-D8F4-4AE2-87E9-39AB09A1C77E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B0BE44-4734-480F-BCCA-AD1B1985480E}
+	EndGlobalSection
+EndGlobal
